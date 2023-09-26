@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyangdev)](https://github.com/danielyangdev/github-readme-stats)
+
+
+![](https://github.com/danielyangdev/stats/blob/master/generated/overview.svg)
+![](https://github.com/danielyangdev/stats/blob/master/generated/languages.svg)
