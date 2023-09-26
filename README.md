@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyangdev)](https://github.com/danielyangdev/github-readme-stats)
+
 **danielyangdev/danielyangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyangdev)](https://github.com/danielyangdev/github-readme-stats)
-
-![](https://github.com/danielyangdev/stats/blob/master/generated/overview.svg)
-![](https://github.com/danielyangdev/stats/blob/master/generated/languages.svg)
