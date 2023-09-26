@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 
 ![](https://github.com/danielyangdev/stats/blob/master/generated/overview.svg)
 ![](https://github.com/danielyangdev/stats/blob/master/generated/languages.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielyangdev&theme=dracula" alt="mystreak"/>
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyangdev&layout=compact)
