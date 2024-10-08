@@ -3,7 +3,7 @@
 I'm a student at USC studying Artificial Intelligence, Business, and Philosophy. 
 
 ## 🔭 What I'm Working On:
-- AI/ML in healthcare technology
+- Cross-platform app development 
 - NLP applications in the medical field
 - Exploring federated learning and explainable AI
 
