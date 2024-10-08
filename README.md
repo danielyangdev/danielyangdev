@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel! 
+# 👋 Hey, I'm Daniel! 
 
 I'm a student at USC studying Artificial Intelligence, Business, and Philosophy. 
 
