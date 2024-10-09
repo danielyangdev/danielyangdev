@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel! 
 
-I'm a student at USC studying Artificial Intelligence, Business, and Philosophy. 
+Student @ USC studying Artificial Intelligence, Business, and Philosophy.
 
 ## 🔭 Current Projects:
 - Cross-platform app development 
