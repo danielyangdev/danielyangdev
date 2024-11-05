@@ -9,6 +9,3 @@ Student @ USC studying Artificial Intelligence, Business, and Philosophy.
 
 ## 🌱 Current Tech-Stack:
 - Python, Java, Typescript, SQL, C++
-
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/danielyangdev)
