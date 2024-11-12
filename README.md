@@ -8,4 +8,7 @@ Student @ USC studying Artificial Intelligence, Business, and Philosophy.
 - Federated learning & explainable AI
 
 ## 🌱 Current Tech-Stack:
-- Python, Java, Typescript, SQL
+- Front-end: React (Typescript)
+- Back-end: Python (Flask)
+- AI/ML: Tensorflow & CoreML
+- Deployment: AWS & Docker
